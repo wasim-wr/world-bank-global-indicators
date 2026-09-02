@@ -7,11 +7,11 @@ Countries	Time Span	Indicators	Records	Tool
 214	11 Yrs	18	2,354	Power BI
 
 
-1.  Project Objective
+# 1.  Project Objective
 To analyse 11 years of World Bank data (2000–2010) across 214 countries and uncover global patterns in economic growth, public health, population dynamics, and digital adoption — visualised through an interactive Power BI dashboard to support data-driven understanding of development trends.
 
 
-2.  Dataset Overview
+# 2.  Dataset Overview
 Category	Indicators Covered
 💰 Finance	GDP (current US$), GDP per capita
 🏥 Health	Life expectancy (M/F/Total), Under-5 mortality, Health expenditure (per capita & % GDP)
@@ -20,7 +20,7 @@ Category	Indicators Covered
 🚆 Transit	Railway passenger-km, Passenger cars per 1,000 people
 
 
-3.  Process
+# 3.  Process
 Data Collection
 ▸  Source: World Bank Open Data — 214 countries, 2000–2010
 ▸  Format: Excel (.xlsx) with structured pivot sheets + raw country-year data
@@ -38,7 +38,7 @@ Dashboard Design
 ▸  KPI cards, choropleth maps, line trends, scatter plots, bar comparisons
 
 
-4.  Business Questions & KPIs Solved
+# 4.  Business Questions & KPIs Solved
 
 #	Question	Answer / Finding
 Q1	Which countries have the highest GDP per capita in 2010?	Luxembourg ($104K), Bermuda ($90K), Norway ($85K) — 3–10× above global avg
@@ -51,7 +51,7 @@ Q7	Which regions are urbanising fastest?	Global urban pop rose from 2.84B to 3.4
 Q8	Which economies grew fastest (GDP)?	China: $1.2T → $5.9T (5× growth); India and Brazil also major climbers
 
 
-5.  Dashboard Insights
+# 5.  Dashboard Insights
 
 Page	Visual	Key Insight
 Overview	World Map + KPI Cards	GDP and life expectancy show sharp North–South divide across all years
@@ -62,7 +62,7 @@ Population	Age pyramid + Birth rate	Africa has youngest population (45%+ under 1
 Technology	Area chart: mobile/internet	Mobile saturation near 100% in developed nations by 2008; internet lagging in low-income
 
 
-6.  Project Insights
+# 6.  Project Insights
 🌐 The World Grew Richer — But Unevenly
 Global GDP doubled in a decade, yet the gap between top and bottom countries widened. Luxembourg's per-capita income ($104K) was over 1,100× that of the poorest nations.
 📱 The Decade of Mobile
@@ -77,7 +77,7 @@ The 0.54 correlation between health expenditure and life expectancy shows money 
 China's GDP grew 5× in 10 years — the most dramatic single-country economic transformation visible in the dataset. By 2010 it was closing in on Japan as Asia's economic leader.
 
 
-7.  Final Conclusion
+# 7.  Final Conclusion
 The 2000–2010 World Bank data tells a story of a world in rapid transition. Technology adoption compressed decades of progress into years. Economies that embraced reform (China, India, Brazil) surged. Health outcomes improved globally, yet Sub-Saharan Africa remained a region of persistent vulnerability.
 
 Three strategic takeaways for policymakers and analysts:
