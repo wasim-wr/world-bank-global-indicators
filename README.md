@@ -1,3 +1,4 @@
+![Dashboard Preview](world-bank-png.PNG)
 # world-bank-global-indicators
 
 #🌍  World Bank Global Indicators
