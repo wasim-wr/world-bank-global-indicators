@@ -1,7 +1,7 @@
 ![Dashboard Preview](world-bank-png.PNG)
 # world-bank-global-indicators
 
-**🌍  World Bank Global Indicators
+# 🌍  World Bank Global Indicators
 Power BI Dashboard Analysis  •  2000 – 2010  •  214 Countries
 Health  |  Economy  |  Population  |  Technology  |  Infrastructure
 Countries	Time Span	Indicators	Records	Tool
